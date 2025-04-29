@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiranjeev Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Donation website](https://github.com/chiranjeev9065/DonationHub)
+- 🔭 I’m currently working on [Techyck](https://www.techyck.com)
 
 - 🌱 I’m currently learning **HTML, CSS, Python, Javascript**
 
